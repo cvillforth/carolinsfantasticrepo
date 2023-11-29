@@ -1,4 +1,4 @@
 import numpy as np
 
 def calc_something(a):
-    return(42)
+    return(420)
